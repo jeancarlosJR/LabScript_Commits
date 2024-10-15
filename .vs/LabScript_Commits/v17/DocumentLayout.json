@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC13272E-0FBD-4291-939C-128261C820C4}|LabScript\\LabScript.csproj|c:\\users\\38512817\\source\\repos\\labscript_commits\\labscript\\class6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC13272E-0FBD-4291-939C-128261C820C4}|LabScript\\LabScript.csproj|solutionrelative:labscript\\class6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC13272E-0FBD-4291-939C-128261C820C4}|LabScript\\LabScript.csproj|c:\\users\\38512817\\source\\repos\\labscript_commits\\labscript\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC13272E-0FBD-4291-939C-128261C820C4}|LabScript\\LabScript.csproj|solutionrelative:labscript\\class5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -39,6 +43,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class6.cs",
+              "DocumentMoniker": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class6.cs",
+              "RelativeDocumentMoniker": "LabScript\\Class6.cs",
+              "ToolTip": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class6.cs",
+              "RelativeToolTip": "LabScript\\Class6.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T16:07:48.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class5.cs",
               "DocumentMoniker": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class5.cs",
               "RelativeDocumentMoniker": "LabScript\\Class5.cs",
@@ -51,7 +68,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Class4.cs",
               "DocumentMoniker": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class4.cs",
               "RelativeDocumentMoniker": "LabScript\\Class4.cs",
@@ -59,12 +76,11 @@
               "RelativeToolTip": "LabScript\\Class4.cs",
               "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:58:31.64Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T15:58:31.64Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Class3.cs",
               "DocumentMoniker": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class3.cs",
               "RelativeDocumentMoniker": "LabScript\\Class3.cs",
@@ -72,12 +88,11 @@
               "RelativeToolTip": "LabScript\\Class3.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-15T15:51:12.61Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-15T15:51:12.61Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Class2.cs",
               "DocumentMoniker": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class2.cs",
               "RelativeDocumentMoniker": "LabScript\\Class2.cs",
@@ -89,7 +104,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class1.cs",
               "RelativeDocumentMoniker": "LabScript\\Class1.cs",

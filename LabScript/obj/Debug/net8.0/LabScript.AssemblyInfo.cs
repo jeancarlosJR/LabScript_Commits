@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("LabScript")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+90bc5764cab1d60f983a5f9bd0dafa397b9b67f5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+493e2612c4ac21110ca2c5996956aaba6fbcba93")]
 [assembly: System.Reflection.AssemblyProductAttribute("LabScript")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LabScript")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

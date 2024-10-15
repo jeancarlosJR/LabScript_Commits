@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BC13272E-0FBD-4291-939C-128261C820C4}|LabScript\\LabScript.csproj|c:\\users\\38512817\\source\\repos\\labscript_commits\\labscript\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BC13272E-0FBD-4291-939C-128261C820C4}|LabScript\\LabScript.csproj|solutionrelative:labscript\\class2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BC13272E-0FBD-4291-939C-128261C820C4}|LabScript\\LabScript.csproj|c:\\users\\38512817\\source\\repos\\labscript_commits\\labscript\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BC13272E-0FBD-4291-939C-128261C820C4}|LabScript\\LabScript.csproj|solutionrelative:labscript\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -23,12 +27,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Class2.cs",
+              "DocumentMoniker": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class2.cs",
+              "RelativeDocumentMoniker": "LabScript\\Class2.cs",
+              "ToolTip": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class2.cs",
+              "RelativeToolTip": "LabScript\\Class2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T15:45:08.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class1.cs",
               "RelativeDocumentMoniker": "LabScript\\Class1.cs",
               "ToolTip": "C:\\Users\\38512817\\source\\repos\\LabScript_Commits\\LabScript\\Class1.cs",
               "RelativeToolTip": "LabScript\\Class1.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAowCUAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-15T15:23:05.924Z",
               "EditorCaption": ""
